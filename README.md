@@ -4,6 +4,7 @@
 - 📧 **Email**: prudhvipulapa123@gmail.com
 - 🔗 **LinkedIn**: [linkedin.com/in/prudhvi-pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)
 - 🔗 **GitHub**: https://github.com/prudviee
+- 🔗 **Resume**: https://drive.google.com/file/d/1kp47zENvUJvRReN-cs57E5hHORJr01KG/view?usp=sharing
 
 ---
 
