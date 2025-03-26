@@ -13,7 +13,7 @@
 
 ---
 
-## Programming Languages
+#### Programming Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="50" height="50"/>
 </p>
 
-## Web Technologies
+#### Web Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
 
-## Machine Learning
+#### Machine Learning
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
@@ -46,26 +46,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
 </p>
 
-## Natural Language Processing (NLP)
+#### Natural Language Processing (NLP)
 <p align="center">
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/langchain.svg" alt="LangChain" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="OpenAI" width="50" height="50"/>
 </p>
 
-## Computer Vision (CV)
+#### Computer Vision (CV)
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
 </p>
 
-## Blockchain
+#### Blockchain
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="Hyperledger" width="50" height="50"/>
 </p>
 
-## AWS & Cloud Services
+#### AWS & Cloud Services
 <p align="center">
   <img src="https://www.svgrepo.com/show/448300/aws-lambda.svg" alt="AWS Lambda" width="50" height="50"/>
   <img src="https://www.svgrepo.com/show/448303/aws-s3.svg" alt="Amazon S3" width="50" height="50"/>
@@ -77,7 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" height="50"/>
 </p>
 
-## DevOps / Tools
+#### DevOps / Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
@@ -114,12 +114,6 @@
 - Seeking roles that involve *system design*, *backend development*, *cloud infrastructure (AWS)*, *computer vision*, and innovative *research applications*.  
 - Passionate about applying expertise in *cryptography*, *blockchain*, *Web 3.0*, *machine learning*, and *deep learning* to build *secure*, *data-driven*, and *transformative solutions*.  
 - Eager to collaborate with dynamic teams that value *creativity*, *cross-disciplinary approaches*, and *continuous learning*.
-
----
-
-### 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prudviee&layout=donut)](https://github.com/prudviee/github-readme-stats)
 
 ---
 
