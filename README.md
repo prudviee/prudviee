@@ -11,8 +11,6 @@
 
 ## 🛠️ Technical Skills
 
----
-
 #### Programming Languages
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
