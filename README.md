@@ -61,6 +61,8 @@
 </table>
 <br>
 
+---
+
 ### Programming Languages
 <p align="center">
   <a href="https://www.cplusplus.com/" target="_blank">
@@ -86,6 +88,8 @@
   </a>
 </p>
 
+---
+
 ### Web Technologies
 <p align="center">
   <a href="https://react.dev/" target="_blank">
@@ -108,6 +112,8 @@
   </a>
 </p>
 
+---
+
 ### Machine Learning & Data Science
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank">
@@ -117,6 +123,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
+    <!-- Reusing Python icon as a proxy for scikit-learn -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Scikit-learn" width="50" height="50"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank">
@@ -126,6 +133,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   </a>
 </p>
+
+---
+
+### Natural Language Processing (NLP)
+<p align="center">
+  <a href="https://spacy.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/SpaCy_logo.svg" alt="spaCy" width="50" height="50"/>
+  </a>
+  <a href="https://www.nltk.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/NLTK_logo.png" alt="NLTK" width="50" height="50"/>
+  </a>
+</p>
+
+---
+
+### Computer Vision (CV)
+<p align="center">
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
+  </a>
+</p>
+
+---
 
 ### Blockchain
 <p align="center">
@@ -138,7 +168,6 @@
   <a href="https://www.hyperledger.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hyperledger/hyperledger-original.svg" alt="Hyperledger" width="50" height="50"/>
   </a>
-  <!-- Smart Contracts, Truffle & Ganache are often represented via Ethereum icons -->
   <a href="https://www.trufflesuite.com/" target="_blank">
     <img src="https://www.trufflesuite.com/img/truffle-logo.png" alt="Truffle" width="50" height="50"/>
   </a>
@@ -146,12 +175,43 @@
     <img src="https://www.trufflesuite.com/img/ganache-logo.svg" alt="Ganache" width="50" height="50"/>
   </a>
 </p>
+
+---
+
 ### AWS & Cloud Services
 <p align="center">
+  <!-- General AWS Icon -->
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
   </a>
-  <!-- AWS Lambda, S3, SNS, SQS, DynamoDB, CloudWatch can be represented by the AWS icon -->
+  <!-- AWS Lambda -->
+  <a href="https://aws.amazon.com/lambda/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/AWS_Lambda_Logo.svg" alt="AWS Lambda" width="50" height="50"/>
+  </a>
+  <!-- Amazon S3 -->
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Amazon_S3_logo.svg" alt="Amazon S3" width="50" height="50"/>
+  </a>
+  <!-- Amazon SNS -->
+  <a href="https://aws.amazon.com/sns/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Amazon_Simple_Notification_Service_Logo.svg" alt="Amazon SNS" width="50" height="50"/>
+  </a>
+  <!-- Amazon SQS -->
+  <a href="https://aws.amazon.com/sqs/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Amazon_SQS_Logo.svg" alt="Amazon SQS" width="50" height="50"/>
+  </a>
+  <!-- Amazon DynamoDB -->
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Amazon_DynamoDB_Logo.svg" alt="Amazon DynamoDB" width="50" height="50"/>
+  </a>
+  <!-- Amazon CloudWatch -->
+  <a href="https://aws.amazon.com/cloudwatch/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Amazon_CloudWatch_Logo.svg" alt="Amazon CloudWatch" width="50" height="50"/>
+  </a>
+  <!-- Elasticsearch -->
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="50" height="50"/>
+  </a>
 </p>
 
 ---
@@ -195,4 +255,3 @@
 
 - **Email**: [prudhvipulapa123@gmail.com](mailto:prudhvipulapa123@gmail.com)  
 - **LinkedIn**: [Prudhvi Pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)
-
