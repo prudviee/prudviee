@@ -130,7 +130,9 @@
 ### Blockchain
 <p align="center">
   <a href="https://ethereum.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="50" height="50"/>
+    <img src="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<path fill="#9fa8da" d="M11 24L25 2 39 24 25 32z"></path><path fill="#7986cb" d="M25 2L39 24 25 32z"></path><path fill="#9fa8da" d="M11 27L25 35 39 27 25 46z"></path><path fill="#7986cb" d="M25 35L39 27 25 46zM11 24L25 18 39 24 25 32z"></path><path fill="#5c6bc0" d="M25 18L39 24 25 32z"></path>
+</svg>" alt="Ethereum" width="50" height="50"/>
   </a>
   <a href="https://docs.soliditylang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="50" height="50"/>
