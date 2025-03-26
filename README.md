@@ -1,35 +1,143 @@
-**GitHub Profile - Prudhvi Pulapa**
+# 👋 Hello, I'm Prudhvi Pulapa
 
-- 📍 **Location**: Hyderabad, Telangana, India
-- 📧 **Email**: prudhvipulapa123@gmail.com
-- 🔗 **LinkedIn**: [linkedin.com/in/prudhvi-pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)
-- 🔗 **GitHub**: https://github.com/prudviee
+## 🌟 About Me  
+- 📍 **Location**: Hyderabad, Telangana, India  
+- 📧 **Email**: [prudhvipulapa123@gmail.com](mailto:prudhvipulapa123@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/prudhvi-pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)  
+- 🔗 **GitHub**: [prudviee](https://github.com/prudviee)  
 - 🔗 **Resume**: [View Resume](https://drive.google.com/file/d/1kp47zENvUJvRReN-cs57E5hHORJr01KG/view?usp=sharing)
 
 ---
 
-**Experience:**
-- **Research Student**, **Virtual Reality and Mental Health Group, IIIT-Hyderabad**
-  - Worked on <u>VR-based head tracking</u> for <u>depression assessment</u>.
-  - Developed and tested <u>VR applications</u> for <u>clinical research</u>.
+## 🛠️ Technical Skills
 
-- **Software Development Intern**, **Amazon**
-  - Led <u>RTN to DLNS migration</u>, handling <u>real-time notifications</u> securely across <u>Trains, Flights, Hotels</u>, and other categories.
-  - Improved <u>cost efficiency by 33%</u> and ensured <u>regulatory compliance</u> through <u>infrastructure optimization</u>.
-  - Enhanced system reliability by implementing robust <u>AWS infrastructure (SNS, SQS, KMS, CloudWatch)</u>.
+<table>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>C++</td>
+    <td>Python</td>
+    <td>Java</td>
+    <td>C</td>
+    <td>Solidity</td>
+    <td>JavaScript</td>
+    <td>Matlab</td>
+  </tr>
+  <tr>
+    <td><b>Web Technologies</b></td>
+    <td>React</td>
+    <td>Node.js</td>
+    <td>Express.js</td>
+    <td>TailwindCSS</td>
+    <td>Bootstrap</td>
+    <td>CSS</td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning</b></td>
+    <td>TensorFlow</td>
+    <td>Keras</td>
+    <td>Scikit-learn</td>
+    <td>Pandas</td>
+    <td>NumPy</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>Blockchain</b></td>
+    <td>Ethereum</td>
+    <td>Hyperledger</td>
+    <td>Smart Contracts</td>
+    <td>Truffle</td>
+    <td>Ganache</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><b>AWS Services</b></td>
+    <td>AWS Lambda</td>
+    <td>S3</td>
+    <td>SNS</td>
+    <td>SQS</td>
+    <td>DynamoDB</td>
+    <td>CloudWatch</td>
+  </tr>
+</table>
+<br>
 
-- **Research Assistant Internship**, **META (FACEBOOK)** - Collab with IIIT-Hyderabad
-  - Proposed <u>design interventions</u> to fill gaps in <u>Metaverse mental health research</u>.
-  - Designed and compared <u>prototypes</u> with other existing products within the <u>Indian context</u>, addressing <u>design gaps</u>.
-
-- **Research Assistant and Teaching Assistant**, **IIIT-Hyderabad**
-  - Assisted in <u>course delivery</u>, <u>student mentoring</u>, and <u>research activities</u>.
+<p align="center">
+  <!-- Programming Languages -->
+  <a href="https://www.cplusplus.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <!-- Web Technologies -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  <!-- Machine Learning -->
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
+  </a>
+  <!-- Blockchain -->
+  <a href="https://ethereum.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="50" height="50"/>
+  </a>
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
-**Expectations:**
-- Open to challenging opportunities—whether <u>internships</u> or <u>full-time roles</u>—that allow me to apply my diverse background in <u>software development</u>, <u>research</u>, and <u>emerging technologies</u>.
-- Seeking to contribute to projects across a broad spectrum, including <u>system design</u>, <u>backend development</u>, <u>cloud infrastructure (AWS)</u>, <u>computer vision</u>, and <u>innovative research applications</u>.
-- Passionate about leveraging my expertise in <u>cryptography</u>, <u>blockchain</u>, <u>Web 3.0</u>, <u>machine learning</u>, and <u>deep learning</u> to develop <u>secure</u>, <u>data-driven</u>, and <u>transformative solutions</u>.
-- Committed to integrating <u>advanced quantitative research</u> and <u>mathematical modeling techniques</u>—gained through <u>finance coursework</u>—to enhance <u>decision-making processes</u> and drive <u>impactful projects</u>.
-- Eager to collaborate with <u>dynamic teams</u> that value <u>creativity</u>, <u>cross-disciplinary approaches</u>, and <u>continuous learning</u> to push the boundaries of <u>technology</u>.
+## 💼 Experience
+
+- **Research Student**, **Virtual Reality and Mental Health Group, IIIT-Hyderabad**  
+  - Worked on *VR-based head tracking* for *depression assessment*.  
+  - Developed and tested *VR applications* for *clinical research*.  
+
+- **Software Development Intern**, **Amazon**  
+  - Led *RTN to DLNS migration*, handling *real-time notifications* securely across *trains, flights, hotels*, and other categories.  
+  - Improved *cost efficiency by 33%* and ensured *regulatory compliance* through *infrastructure optimization*.  
+  - Enhanced system reliability by implementing robust *AWS infrastructure (SNS, SQS, KMS, CloudWatch)*.
+
+- **Research Assistant Internship**, **META (FACEBOOK)** *(Collab with IIIT-Hyderabad)*  
+  - Proposed *design interventions* to fill gaps in *Metaverse mental health research*.  
+  - Designed and compared *prototypes* with existing products in the *Indian context*, addressing key *design gaps*.
+
+- **Research Assistant and Teaching Assistant**, **IIIT-Hyderabad**  
+  - Assisted in *course delivery*, *student mentoring*, and various *research activities*.
+
+---
+
+## 🎯 Expectations
+
+- Open to challenging opportunities—whether *internships* or *full-time roles*—leveraging my background in *software development*, *research*, and *emerging technologies*.  
+- Seeking roles that involve *system design*, *backend development*, *cloud infrastructure (AWS)*, *computer vision*, and innovative *research applications*.  
+- Passionate about applying expertise in *cryptography*, *blockchain*, *Web 3.0*, *machine learning*, and *deep learning* to build *secure*, *data-driven*, and *transformative solutions*.  
+- Eager to collaborate with dynamic teams that value *creativity*, *cross-disciplinary approaches*, and *continuous learning*.
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prudviee&layout=donut)](https://github.com/prudviee/github-readme-stats)
+
+---
+
+## 📞 Contact Me
+
+- **Email**: [prudhvipulapa123@gmail.com](mailto:prudhvipulapa123@gmail.com)  
+- **LinkedIn**: [Prudhvi Pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)
+
