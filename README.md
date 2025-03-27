@@ -1,11 +1,12 @@
 # 👋 Hello, I'm Prudhvi Pulapa
 
-## 🌟 About Me  
+## 👤 About Me  
 - 📍 **Location**: Hyderabad, Telangana, India  
 - 📧 **Email**: [prudhvipulapa123@gmail.com](mailto:prudhvipulapa123@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/prudhvi-pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)  
-- 🔗 **GitHub**: [prudviee](https://github.com/prudviee)  
-- 🔗 **Resume**: [View Resume](https://drive.google.com/file/d/1kp47zENvUJvRReN-cs57E5hHORJr01KG/view?usp=sharing)
+- 🎓 **College**: International Institute of Information Technology - Hyderabad (IIIT-Hyderabad)  
+- 🤝 **LinkedIn**: [linkedin.com/in/prudhvi-pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)  
+- 💻 **GitHub**: [prudviee](https://github.com/prudviee)  
+- 📝 **Resume**: [View Resume](https://drive.google.com/file/d/1kp47zENvUJvRReN-cs57E5hHORJr01KG/view?usp=sharing)
 
 ---
 
