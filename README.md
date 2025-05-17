@@ -90,8 +90,12 @@
 ---
 
 ## 💼 Experience
+- **Software Engineer Intern**, **Qualcomm** (Present)
+  - Spearheading development of **SeeIoT**, a performance-analysis tool that auto-generates ISP pipelines for selected use cases and SoCs.  
+  - Built a user-friendly UI for configuring input/output streams, selecting use cases, and viewing detailed performance feedback.  
+  - Integrated ML and computer-vision techniques, along with automated testing, to ensure compatibility across Qualcomm’s premium to entry-level SoCs.
 
-- **Research Student**, **Virtual Reality and Mental Health Group, IIIT-Hyderabad**  
+- **Research Student**, **Virtual Reality and Mental Health Group, IIIT-Hyderabad** (Present)
   - Worked on *VR-based head tracking* for *depression assessment*.  
   - Developed and tested *VR applications* for *clinical research*.  
 
