@@ -47,27 +47,17 @@
 
 #### ML, DL & LLMs
 <p align="center">
-  <!-- Deep Learning Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" alt="PyTorch" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50" style="margin:5px;"/>
-
-  <!-- Core Data Science -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" alt="Scikit-learn" width="50" height="50" style="margin:5px;"/>
-
-  <!-- LLM Tooling -->
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.simpleicons.org/transformers" alt="Transformers" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="OpenAI" width="50" height="50" style="margin:5px;"/>
-  <img src="https://cdn.simpleicons.org/cohere" alt="Cohere" width="50" height="50" style="margin:5px;"/>
-
-  <!-- Supporting Libraries & Ops -->
   <img src="https://cdn.simpleicons.org/spacy" alt="spaCy" width="50" height="50" style="margin:5px;"/>
-  <img src="https://cdn.simpleicons.org/jax" alt="JAX" width="50" height="50" style="margin:5px;"/>
-  <img src="https://cdn.simpleicons.org/fastai" alt="fastai" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.simpleicons.org/weightsandbiases" alt="Weights & Biases" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.simpleicons.org/mlflow" alt="MLflow" width="50" height="50" style="margin:5px;"/>
 </p>
