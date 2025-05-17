@@ -54,7 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" alt="Scikit-learn" width="50" height="50" style="margin:5px;"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="50" height="50" style="margin:5px;"/>
-  <img src="https://cdn.simpleicons.org/transformers" alt="Transformers" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.simpleicons.org/langchain" alt="LangChain" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" alt="OpenAI" width="50" height="50" style="margin:5px;"/>
   <img src="https://cdn.simpleicons.org/spacy" alt="spaCy" width="50" height="50" style="margin:5px;"/>
