@@ -1,12 +1,18 @@
 # 👋 Hello, I'm Prudhvi Pulapa
 
-## 👤 About Me  
+## 👤 About Me
 - 📍 **Location**: Hyderabad, Telangana, India  
 - 📧 **Email**: [prudhvipulapa123@gmail.com](mailto:prudhvipulapa123@gmail.com)  
 - 🎓 **College**: International Institute of Information Technology - Hyderabad (IIIT-Hyderabad)  
 - 🤝 **LinkedIn**: [linkedin.com/in/prudhvi-pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)  
 - 💻 **GitHub**: [prudviee](https://github.com/prudviee)  
 - 📝 **Resume**: [View Resume](https://drive.google.com/file/d/1kp47zENvUJvRReN-cs57E5hHORJr01KG/view?usp=sharing)
+
+---
+
+## 🚀 About Me in Short
+I’m a Software Engineer and researcher with experience across **backend systems, cloud infrastructure, quantitative/market-data projects, AI-powered applications, and applied research**.  
+My work spans **production engineering in industry** and **research-oriented software development**, and I enjoy building systems that are scalable, practical, and technically challenging.
 
 ---
 
@@ -64,7 +70,6 @@
 #### Blockchain
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" width="50" height="50" style="margin: 5px;"/>
-  <!-- Solidity already appears above, but listing again for Blockchain context -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="50" height="50" style="margin: 5px;"/>
   <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="Hyperledger" width="50" height="50" style="margin: 5px;"/>
 </p>
@@ -93,39 +98,101 @@
 ---
 
 ## 💼 Experience
-- **Software Engineer Intern**, **Qualcomm** (Present)
-  - Spearheading development of **SeeIoT**, a performance-analysis tool that auto-generates ISP pipelines for selected use cases and SoCs.  
-  - Built a user-friendly UI for configuring input/output streams, selecting use cases, and viewing detailed performance feedback.  
-  - Integrated ML and computer-vision techniques, along with automated testing, to ensure compatibility across Qualcomm’s premium to entry-level SoCs.
 
-- **Research Student**, **Virtual Reality and Mental Health Group, IIIT-Hyderabad** (Present)
-  - Worked on *VR-based head tracking* for *depression assessment*.  
-  - Developed and tested *VR applications* for *clinical research*.  
+### **Software Engineer – Scapia**
+- Working on backend engineering for fintech and travel/e-commerce systems.
+- Building and improving production services involving **Java, Spring Boot, PostgreSQL, Redis, AWS, event-driven workflows, and API integrations**.
+- Contributing to scalable systems with focus on reliability, maintainability, and business impact.
 
-- **Software Development Intern**, **Amazon**  
-  - Led *RTN to DLNS migration*, handling *real-time notifications* securely across *trains, flights, hotels*, and other categories.  
-  - Improved *cost efficiency by 33%* and ensured *regulatory compliance* through *infrastructure optimization*.  
-  - Enhanced system reliability by implementing robust *AWS infrastructure (SNS, SQS, KMS, CloudWatch)*.
+### **Software Engineer Intern – Qualcomm**
+- Contributed to the development of **SeeIoT**, a performance-analysis tool for automated ISP pipeline generation across Qualcomm SoCs.
+- Built workflows and UI components for configuring streams, use cases, and performance feedback.
+- Worked in a performance-oriented environment involving system behavior analysis, compatibility checks, and automation.
 
-- **Research Assistant Internship**, **META (FACEBOOK)** *(Collab with IIIT-Hyderabad)*  
-  - Proposed *design interventions* to fill gaps in *Metaverse mental health research*.  
-  - Designed and compared *prototypes* with existing products in the *Indian context*, addressing key *design gaps*.
+### **Research Student – Virtual Reality and Mental Health Group, IIIT-Hyderabad**
+- Worked on **VR-based head tracking** and behavioral signals for depression-related assessment.
+- Developed and tested VR applications for research and clinical-use scenarios.
+- Contributed to interdisciplinary work spanning software, psychology, and healthcare research.
 
-- **Research Assistant and Teaching Assistant**, **IIIT-Hyderabad**  
-  - Assisted in *course delivery*, *student mentoring*, and various *research activities*.
+### **Software Development Intern – Amazon**
+- Worked on **RTN to DLNS migration**, handling real-time notifications securely across categories like trains, flights, and hotels.
+- Improved cost efficiency and reliability through better infrastructure and workflow design.
+- Built and debugged systems using **AWS SNS, SQS, KMS, and CloudWatch**.
+
+### **Research Assistant Internship – META (Collaboration with IIIT-Hyderabad)**
+- Proposed and evaluated design interventions for mental-health research in the metaverse context.
+- Designed and compared prototypes against existing products in the Indian context.
+- Contributed to research exploring the intersection of immersive tech and mental health.
+
+### **Research Assistant and Teaching Assistant – IIIT-Hyderabad**
+- Assisted in coursework delivery, mentoring, and research activities.
+- Supported academic and project-based learning in technical domains.
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 CogWeb – AI-Powered Cognitive Assessment Platform
+- Built a cognitive testing web platform for research and healthcare-oriented use cases.
+- Worked on interactive assessments, insights generation, and AI-assisted workflows.
+- Focused on making research software more usable, data-driven, and scalable.
+
+### 🔹 SeeIoT – Qualcomm Performance Analysis Tool
+- Contributed to a performance-analysis and automated pipeline-generation tool for Qualcomm camera/ISP workflows.
+- Worked on system configuration flows and performance-driven engineering tasks.
+
+### 🔹 RTN to DLNS Migration – Amazon Pay
+- Helped migrate legacy notification workflows to a new localized service architecture.
+- Improved reliability, observability, and compliance for real-time communication pipelines.
+
+### 🔹 VR Mental Health Research Applications
+- Built and tested VR-based applications for depression assessment and mental-health research.
+- Worked on human-centered research software with applied clinical relevance.
+
+### 🔹 Quant / Market Data / Trade Simulation Work
+- Explored market-data systems, trade simulation, and execution-oriented software in parallel with backend engineering work.
+- Interested in building data-intensive systems for trading, analytics, and quantitative workflows.
+
+---
+
+## 📊 Research, Quant & AI Interests
+- Quantitative development and market-data systems  
+- AI/LLM-powered applications and intelligent tooling  
+- Research software engineering and applied machine learning  
+- Backend systems, distributed systems, and cloud infrastructure  
+- Performance engineering and scalable data pipelines  
+- Computer vision, VR, and health-tech research  
+- Blockchain, cryptography, and secure software systems  
+
+---
+
+## 🏆 Highlights
+- Experience across **Scapia, Qualcomm, Amazon, Meta, and IIIT-Hyderabad**
+- Built software in both **production engineering** and **research-driven environments**
+- Worked with **backend systems, AWS infrastructure, APIs, PostgreSQL, Redis, and distributed workflows**
+- Comfortable across **backend engineering, applied AI, research platforms, and performance-focused systems**
+- Strong interest in **quantitative systems, trading infrastructure, and real-time data-intensive applications**
+
+---
+
+## 📚 Currently Exploring
+- Low-latency systems and trading/market-data infrastructure  
+- Applied AI systems and LLM integration into real-world products  
+- Quantitative finance, execution systems, and financial engineering  
+- Advanced backend architecture, system design, and scalability  
+- End-to-end research-to-production software workflows  
 
 ---
 
 ## 🎯 Expectations
-
-- Open to challenging opportunities—whether *internships* or *full-time roles*—leveraging my background in *software development*, *research*, and *emerging technologies*.  
-- Seeking roles that involve *system design*, *backend development*, *cloud infrastructure (AWS)*, *computer vision*, and innovative *research applications*.  
-- Passionate about applying expertise in *cryptography*, *blockchain*, *Web 3.0*, *machine learning*, and *deep learning* to build *secure*, *data-driven*, and *transformative solutions*.  
-- Eager to collaborate with dynamic teams that value *creativity*, *cross-disciplinary approaches*, and *continuous learning*.
+- Open to challenging opportunities across **software engineering, backend systems, quantitative engineering, AI systems, and research software**
+- Seeking roles involving **system design, cloud infrastructure, APIs, distributed systems, data-intensive platforms, and applied research**
+- Passionate about building **secure, scalable, and data-driven systems**
+- Eager to work with teams that value **ownership, learning, technical depth, and innovation**
 
 ---
 
 ## 📞 Contact Me
-
 - **Email**: [prudhvipulapa123@gmail.com](mailto:prudhvipulapa123@gmail.com)  
-- **LinkedIn**: [Prudhvi Pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)
+- **LinkedIn**: [Prudhvi Pulapa](https://www.linkedin.com/in/prudhvi-pulapa/)  
+- **GitHub**: [prudviee](https://github.com/prudviee)
